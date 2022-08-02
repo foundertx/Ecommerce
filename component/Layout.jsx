@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
         <title>SwiftlyBox Merchant Store</title>
       </Head>
       <header>
-        <Navbar />
+        <NavBar />
       </header>
       <main className="main-container">{children}</main>
       <footer>
